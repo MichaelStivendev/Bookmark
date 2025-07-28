@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/MichaelStivendev/Bookmark)
+- Solution URL: (https://github.com/MichaelStivendev/Bookmark)
+- Live Site URL: (https://michaelstivendev.github.io/Bookmark/)
 
 ### Screenshot
 
